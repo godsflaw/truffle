@@ -3,7 +3,7 @@ Docker image of Truffle - simple development framework for Ethereum
 
 # Supported tags and respective `Dockerfile` links
 
-* `3.4`, `latest` [(Dockerfile)](https://github.com/killcity/truffle/blob/master/3.2/Dockerfile)
+* `3.4`, `latest` [(Dockerfile)](https://github.com/killcity/truffle/blob/master/3.4/Dockerfile)
 * `3.2` [(Dockerfile)](https://github.com/killcity/truffle/blob/master/3.2/Dockerfile)
 * `3.0` [(Dockerfile)](https://github.com/killcity/truffle/blob/master/3.0/Dockerfile)
 * `2.1` [(Dockerfile)](https://github.com/killcity/truffle/blob/master/2.1/Dockerfile)
