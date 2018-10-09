@@ -6,5 +6,6 @@ WORKDIR /truffle
 
 RUN apk add -t .gyp --no-cache git python g++ make \
     && npm config set unsafe-perm true \
-    && npm install -g truffle@4.1.13 \
-    && npm install -g ganache-cli
+    && npm install -g truffle@4.1.14 \
+    && npm install -g ganache-cli \
+    && npm install -g zos
